@@ -1,0 +1,36 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/c/9/a/c9a1ae0f4ded1c7563250f0efe1c8794_icon.jpg" group-title="Indian News", 1st News India
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UJfDAaVdDkGkb-3DmddM-IL2fb6L4VlcsFdgoxaDSKTdH2rmQ9IS7BJWsEFfu4vvpjijY-rk=s900-c-k-c0x00ffffff-no-rj" group-title="Indian News", 24Hrs TV
+https://server.livelegitpro.in/24hourstv/24hourstv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2022/11/7x-music-Punjabi.jpg" group-title="Indian Music", 7x Music
+https://stream.e2is.in/hls/7xMusic.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/FqxFQXsB3fUKTYibqFb8gTuMmcOcmMFRTvDT9AejrV60dg0JWdFGRs96ZZQ3-xqx62VL7s6LDg=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Music", 9xM
+https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/23St9aLVwuEYlaxkRBGCTyoKtDzRluU16fL-3LGMrjnUV4w7C3uQd9zvuyGyEAOmgA" group-title="Indian News", Aj Tak Live
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_180p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://akaalchannel.tv/wp-content/uploads/2020/06/logo.png" group-title="Panjabi", Akaal TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv-avc1_500000=3-mp4a_65600_eng=1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6k0DUL345HM/hqdefault.jpg" group-title="Indian Music", Himachali Hita
+https://stream.e2is.in/hls/aminews.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Z5AwOI-lTTNGWQQ6gkkS8PEr7zY2yA-e-3sbCLRDSF9Vd64StSqOSk3zxJrNIXyHibY6Gl5h=s900-c-k-c0x00ffffff-no-rj" group-title="Panjabi", Amrit Baani TV
+https://stream.e2is.in/hls/SatlujTv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbfi7t7tPku527Llu0QgpyZbFM0QfisY_IgZ2Rz9YZA&s" group-title="Indian Religion", Amritavaani TV
+https://server.livelegitpro.in/amritvanitv/amritvanitv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSN7JX8jJFkY2o3-ygS9p80BCIO2f2jVw-wvvaw8sVOw&s" group-title="Indian News", ANB News
+https://server.livelegitpro.in/anbnews/anbnews/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVnUf_X1QSWrFHexe3XfjdJJ1wLVzi-HSG37HHGPE0WqM=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Entertainment", Anjan TV
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w109480764_b828000.m3u8
+
+
