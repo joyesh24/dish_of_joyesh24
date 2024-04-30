@@ -15,7 +15,7 @@ https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/23St9aLVwuEYlaxkRBGCTyoKtDzRluU16fL-3LGMrjnUV4w7C3uQd9zvuyGyEAOmgA" group-title="Indian News", Aj Tak Live
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_180p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://akaalchannel.tv/wp-content/uploads/2020/06/logo.png" group-title="Panjabi", Akaal TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/s5jXERF3BkNQ_aIigUk9-AsRAndmxnjBQnIh4S-_QG15vmvo20gjKAyhurFeKjPdEkw=w416-h235-rw" group-title="Panjabi", Akaal TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv-avc1_500000=3-mp4a_65600_eng=1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6k0DUL345HM/hqdefault.jpg" group-title="Indian Music", Himachali Hita
@@ -33,4 +33,12 @@ https://server.livelegitpro.in/anbnews/anbnews/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVnUf_X1QSWrFHexe3XfjdJJ1wLVzi-HSG37HHGPE0WqM=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Entertainment", Anjan TV
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w109480764_b828000.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FBoZ2g4CnO3I8aimQdkZeU5NP8vQFD63r_gXwuD9kdxtlNMZipi8C9TXm8_n1tYb3xU" group-title="Indian News", Apna Pradesh
+https://server.livelegitpro.in/apnapradesh/apnapradesh/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vw0ajFrUqmoLgAXfnUVBWFxhcG4Uso3o7RKRXTs4QZ66uULSE4D3E6WbdXlNu1DHD9Be" group-title="Panjabi", Apna Panjab
+https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBFyBg4rxdoDp0Ii8Fd2hMEZO_mHeuqHs0fk5CJWDdNQ&s" group-title="Indian Religion", Atmadarshan TV
+https://legitpro.co.in/atmadarshan/atmadarshan/tracks-v1a1/mono.m3u8
 
